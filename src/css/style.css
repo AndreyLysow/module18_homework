@@ -164,7 +164,7 @@ h1.base-title {
 }
 
 .base {
-    background-image: url('/src/img/mainView.jpg');
+    background-image: url('../img/mainView.jpg');
     background-size: cover;
     height: 707px;
     padding-top: 194px;
@@ -249,7 +249,7 @@ h1.base-title {
 }
 
 .completedWorks-division {
-    background-image: url('/src/img/panoramic.jpg');
+    background-image: url('../img/panoramic.jpg');
     background-repeat: no-repeat;
     height: 482px;
     background-position-x: 570px;
@@ -378,7 +378,7 @@ hr {
 }
 
 .videocam {
-    background-image: url('/src/img/screenVideo.jpg');
+    background-image: url('../img/screenVideo.jpg');
     height: 439px;
     background-size: cover;
     position: relative;
@@ -403,7 +403,7 @@ hr {
     z-index: 3;
 }
 .video-play-button{
-        background-image: url('/src/img/Polygon.svg');
+        background-image: url('../img/Polygon.svg');
         background-position:32px center; 
         background-repeat: no-repeat;
         background-size: 28px 28px;
@@ -556,18 +556,18 @@ input[type="checkbox"] {
 }
 
 .item__1 {
-    background-image: url('/src/img/emptyInterior.jpg');
+    background-image: url('../img/emptyInterior.jpg');
     background-repeat: no-repeat;
 
 }
 
 .item__2 {
-    background-image: url('/src/img/lightLivingRoom.jpg');
+    background-image: url('../img/lightLivingRoom.jpg');
     background-repeat: no-repeat;
 }
 
 .item__3 {
-    background-image: url('/src/img/modernInterior.jpg');
+    background-image: url('../img/modernInterior.jpg');
     background-repeat: no-repeat;
 }
 
@@ -609,7 +609,7 @@ input[type="checkbox"] {
 }
 
 .repair-middle-div {
-    background-image: url('/src/img/houseScetch.jpg');
+    background-image: url('../img/houseScetch.jpg');
     height: 612px;
     padding-top: 49px;
     background-position-x: 0;
@@ -737,7 +737,7 @@ input[type="checkbox"] {
 
 .customers {
     background-color: rgb(253,253,253);
-    background-image: url('/src/img/substrateСity.png');
+    background-image: url('../img/substrateСity.png');
     background-repeat: repeat-x;
     background-position: left bottom;
     height: 1109px;
@@ -824,7 +824,7 @@ span.draftsman:before {
     width: 32px;
     height: 32px;
     padding-right: 16px;
-    background-image: url('/src/img/draftsman.svg');
+    background-image: url('../img/draftsman.svg');
     background-repeat: no-repeat;
 }
 span.completion-time {
@@ -839,7 +839,7 @@ span.completion-time:before {
     height: 32px;
     margin-left: 16px;
     padding-right: 16px;
-    background-image: url('/src/img/almanac.svg');
+    background-image: url('../img/almanac.svg');
     background-repeat: no-repeat;
 }
 
@@ -856,7 +856,7 @@ span.completion-time:before {
     width: 100%;
     height: 130%;
     margin: -89px;
-    background-image: url('/src/img/substrateСity2.jpg');
+    background-image: url('../img/substrateСity2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     filter: brightness(50%);
@@ -976,13 +976,13 @@ span.completion-time:before {
 }
 
 .email-button {
-    background-image: url('/src/img/eMail.svg');
+    background-image: url('../img/eMail.svg');
     background-repeat: no-repeat;
     background-position: 50%;
 }
 
 .instagram-button {
-    background-image: url('/src/img/instgram.svg');
+    background-image: url('../img/instgram.svg');
     background-repeat: no-repeat;
     background-position: 50%;
 }
@@ -1025,7 +1025,7 @@ bottom: 1.78%;
 }
 
 .fantasies {
-    background-image: url('/src/img/coolInterior.jpg');
+    background-image: url('../img/coolInterior.jpg');
     background-size: cover;
     height: 864px;
     padding-top: 130px;
@@ -1086,11 +1086,11 @@ bottom: 1.78%;
 .fantasies-pictures-1__item-1 {
     margin-bottom: 30px;
     height: 560px;
-    background-image: url('/src/img/coolInterior_watch.jpg');
+    background-image: url('../img/coolInterior_watch.jpg');
 }
 
 .fantasies-pictures-1__item-2 {
-    background-image: url('/src/img/livingRoomWithTV.jpg');
+    background-image: url('../img/livingRoomWithTV.jpg');
     height: 350px;
 }
 
@@ -1103,12 +1103,12 @@ bottom: 1.78%;
 .fantasies-pictures-2__item-1 {
     margin-bottom: 30px;
     height: 275px;
-    background-image: url('/src/img/coolInterior_sofa.jpg');
+    background-image: url('../img/coolInterior_sofa.jpg');
 }
 
 .fantasies-pictures-2__item-2 {
     height: 625px;
-    background-image: url('/src/img/coolInterior_flower.jpg');
+    background-image: url('../img/coolInterior_flower.jpg');
 }
 
 
@@ -1224,7 +1224,7 @@ bottom: 1.78%;
 
     .completedWorks-mobile {
         height: 250px;
-        background-image: url('/src/img/livingRoomMobile.png');
+        background-image: url('../img/livingRoomMobile.png');
         background-repeat: no-repeat;
         margin-bottom: 5%;
         padding-top: 35%;
@@ -1246,12 +1246,12 @@ bottom: 1.78%;
     }
 
     .item_left {
-        background-image: url('/src/img/leftBracket.svg');
+        background-image: url('../img/leftBracket.svg');
         background-repeat: no-repeat;
     }
 
     .item_right {
-        background-image: url('/src/img/rightBracket.svg');
+        background-image: url('../img/rightBracket.svg');
         background-repeat: no-repeat;
     }
 
@@ -1398,7 +1398,7 @@ bottom: 1.78%;
     }
 
     .fantasies-mobile {
-        background-image: url('/src/img/coolInteriorMobile.jpg');
+        background-image: url('../img/coolInteriorMobile.jpg');
     }
 
     .contacts {
