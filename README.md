@@ -4,7 +4,7 @@
 ## by Lysov Andrey
 ---
 ## How to open/launch
-## Еhis Web project is deployed on the website https://github.com/AndreyLysow/module22_homework.git
+## Еhis Web project is deployed on the website https://github.com/AndreyLysow/module18_homework.git
 ## Technologies used:
 * HTML
 * CSS
